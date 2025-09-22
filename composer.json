@@ -5,7 +5,7 @@
     "homepage": "https://github.com/digitalnature/php-ref",   
     "license": "MIT",
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=8.0"
     },
     "autoload": {
         "files": [ "ref.php" ]
